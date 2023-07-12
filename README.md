@@ -1,3 +1,6 @@
+Comandos necessarios: "npm install && npm run dev"
+
+
 # Documentação das Rotas da API
 
 ## Company Routes
